@@ -11,7 +11,7 @@
 <body>
 <div id="jtvh1">
 <a href="https://www.jio.com/en-in/apps/jio-tv">
-<h1>JIOTV SUBRAT</h1>
+<h1>JIOTV TECH_SK</h1>
 </div>
 </a>
 <div id="content">
