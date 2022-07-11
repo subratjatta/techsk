@@ -2,7 +2,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
-<title>JIOTV SUBRAT</title>
+<title>JIOTV TechSK</title>
 <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
 <meta name="robots" content="noindex" />
 <link rel="stylesheet" href="assets/css/techiesneh.min.css">
